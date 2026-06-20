@@ -19,6 +19,23 @@ Uygulama tam kapsamlı CRUD (Create, Read, Update, Delete) işlemlerini destekle
 - **Tasarım:** Figma (Auto Layout, Component & Variant mimarisi)
 - **Veri Yönetimi:** LocalStorage
 
+## 🔗 Canlı Demo
+Uygulamayı canlı olarak test etmek için tıklayın: **[CampBay Live Demo](https://selinkincal-campbay.netlify.app/)**
+
+## 📸 Ekran Görüntüleri
+
+![Ana Sayfa Görünümü Gezgin](./screenshots/home1.png),
+![Ana Sayfa Gezgin Görünümü](./screenshots/home2.png)
+![Ana Sayfa Görünümü Yönetici](./screenshots/home3.png)
+![Ana Sayfa Yönetici Görünümü](./screenshots/home4.png)
+![Kamp Detay ve Düzenleme](./screenshots/detail.png)
+![Kamp Detay Ekleme](./screenshots/advert.png)
+
+
+## 👩‍💻 Geliştirici
+**Selin Kıncal** *Yazılım Mühendisliği Öğrencisi | Manisa Celal Bayar Üniversitesi* 
+
+
 ## 💻 Kurulum ve Çalıştırma
 
 Projeyi kendi bilgisayarınızda çalıştırmak için şu adımları izleyin:
